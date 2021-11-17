@@ -1,1 +1,1 @@
-# programowanie-w-JavaScript-zad-
+# Третья практика по бэку JS
