@@ -5,7 +5,7 @@ const sequelize = new Sequelize({
   host: 'localhost',
   port: 5432,
   dialect: 'postgres',
-  database: 'nodebd', // здесь нужно всавить имя своей бд? её можно создать в SQLShell но есть уже созданная company
+  database: 'nodebd',
   username: 'postgres',
   password: '1337',
 });
