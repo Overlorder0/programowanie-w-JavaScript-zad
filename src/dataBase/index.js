@@ -7,7 +7,7 @@ const sequelize = new Sequelize({
   dialect: 'postgres',
   database: 'nodebd', // здесь нужно всавить имя своей бд? её можно создать в SQLShell но есть уже созданная company
   username: 'postgres',
-  password: '27072001qw',
+  password: '1337',
 });
 
 const initDB = async () => {
